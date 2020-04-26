@@ -21,4 +21,4 @@ dataset_collection_gestures.py is an fully automated data collection script. Jus
 ## How to Use:
   In the Terminal or Command prompt (depending upon the OS you're using.)
   Type : 
-  python dataset_collection_gestures.py --feature <name of the gesture you'll make to be captured> --count <#of images you want to capture> --output <where you want to save the output folder>
+    python dataset_collection_gestures.py --feature <name of the gesture you'll make to be captured> --count <#of images you       want to capture> --output <where you want to save the output folder>
