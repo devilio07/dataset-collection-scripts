@@ -1,3 +1,8 @@
+"""
+Author : Marmik Sharma
+Feel free to use  the script. And make necessary changes.
+"""
+
 import cv2
 import os
 import sys
